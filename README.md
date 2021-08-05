@@ -5,7 +5,7 @@
 
 Created by:
 Cody Van Buren: https://github.com/bvanburenwx 
-Jamel Eggleston: https://github.com/concreteRoc            
+Jamel Eggleston: https://github.com/jameleggleston            
 Lauren Goss: https://github.com/laurenlgoss
 Pamela Hammond: https://github.com/PamtheHam
 
